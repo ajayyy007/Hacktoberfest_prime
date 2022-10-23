@@ -1,3 +1,3 @@
 # Hacktoberfest_prime
 
-A program to find the prime number in java
+A program to find the prime number in java code
